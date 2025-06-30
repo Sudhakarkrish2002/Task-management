@@ -1,12 +1,51 @@
-# React + Vite
+📋 Task Management App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive and fully functional Task Management Web Application developed using React.js, Vite, Tailwind CSS, and JavaScript. Built as part of my Week 8 intermediate-level project to enhance hands-on experience in modern frontend development.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 Live Demo: https://task-management-alpha-rose.vercel.app
 
-## Expanding the ESLint configuration
+📂 GitHub Repo: https://github.com/Sudhakarkrish2002/Task-management
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+✨ Features:
+
+✅ Create, Edit, and Delete Tasks
+
+🔍 Search Tasks by Title
+
+📄 Pagination for Task Listings
+
+✅ Form Validation for Clean Input
+
+📱 Mobile-Responsive UI with Tailwind CSS
+
+🔁 Client-side Routing using React Router
+
+🛠️ Tech Stack:
+
+Frontend Framework: React.js
+
+Build Tool: Vite
+
+Styling: Tailwind CSS
+
+Language: JavaScript (ES6+)
+
+Routing: React Router DOM
+
+Deployment: Vercel
+
+
+# Clone the repository
+git clone https://github.com/Sudhakarkrish2002/Task-management.git
+
+# Go into the project directory
+cd Task-management
+
+# Install the dependencies
+npm install
+
+# Start the development server
+npm run dev
+
+
